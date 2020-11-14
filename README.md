@@ -1,5 +1,5 @@
 # Space journey
-Simple game created with Python 3.8. Contains database in sqlite3 and login system.
+Simple game created with Python 3.8. Contains database in SQLite 3 and login system.
 
 
 ## Table of Contents
