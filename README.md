@@ -4,7 +4,6 @@ Simple game created with Python 3.8. Contains database in sqlite3 and login syst
 
 ## Table of Contents
 * [General info](#general-info)
-* [Modules](#modules)
 * [Setup](#setup)
 * [Sources](#sources)
 
