@@ -12,7 +12,7 @@ Simple game created with Python 3.8. Contains database in SQLite 3 and login sys
 Space journey is a simple game with login system and database. 
 
 ### Login System
-Login System is a GUI based on [tkinter](https://docs.python.org/3.8/library/tkinter.html) module.
+Login System is a GUI based on [tkinter](https://docs.python.org/3.8/library/tkinter.html) module, which comes with python 3 and you don't have to install it on your own.
 
 To use application, first you have to create an account by passing username and password.
 Next head to the Login section and repeat these actions.
@@ -47,7 +47,6 @@ To install modules use [pip install](https://pip.pypa.io/en/stable/reference/pip
 ```
 pip install pygame
 pip install superwires
-pip install tkinter
 ```
 
 ### To start the game follow these instructions:
